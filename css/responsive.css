@@ -1,0 +1,297 @@
+/* @media (max-width: 1399px) {
+    .header_item {
+        margin-right: 70px;
+    }
+    .itemDesign {
+        width: 46%;
+        box-sizing: border-box;
+        padding: 35px 0px;
+        margin-left: 15px;
+    }
+} */
+
+@media (max-width: 1230px) {
+
+    /*====>>>SERVICE SECTION START<<<<====== */
+    .itemDesign {
+        width: 46%;
+        box-sizing: border-box;
+        padding: 35px 0px;
+
+    }
+    .service_title {
+        text-align: center;
+        margin-right: 37px;
+    }
+    .itemDesign p {
+        width: 72%;
+    }
+
+     /*====>>>SERVICE SECTION END<<<<====== */
+     /*====>>>ABOUT SECTION START<<<<====== */
+     .item_right {
+        float: right;
+        width: 50%;
+        font-family: sans-serif;
+    }
+    .item_left {
+        width: 46%;
+        float: left;
+    }
+    .item_right {
+
+        position: relative;
+        top: -30px;
+    }
+
+
+}
+
+@media (max-width: 992px) {
+
+    /*====>>>HEADER SECTION START<<<<====== */
+    .header_right {
+        width: 75%;
+    }
+    .header_left {
+        float: left;
+        width: 25%;
+    }
+
+    /*====>>>HEADER SECTION END<<<<====== */
+    /*====>>>BANNER SECTION START<<<<====== */
+    .banner_section {
+        background-position: -83px -1px;
+        padding: 180px 0px;
+    }
+    .banner_item h1 {
+        font-size: 41px;
+    }
+    .banner_item .batonn {
+        padding: 10px 25px;
+        margin-top: 21px;
+
+    }
+
+    /*====>>>SERVICE SECTION START<<<<====== */
+
+    .service_title {
+        margin-right: 24px;
+    }
+
+    /*====>>>SERVICE SECTION END<<<<====== */
+
+    .item_left {
+        width: 100%;
+        text-align: center;
+    }
+    .item_right {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .contact_title p {
+        font-size: 15px;
+        width: 500px;
+        margin: auto;
+    }
+    .item_right {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    /*====>>>HEADER SECTION START<<<<====== */
+    .header_right ul li a {
+        padding: 0px 9px;
+        font-size: 13px;
+    }
+    .header_left h3 {
+        font-size: 22px;
+        font-weight: 500;
+    }
+    /*====>>>HEADER SECTION END<<<<====== */
+
+    .banner_section {
+        background-position: -40px -2px;
+        padding: 127px 0px;
+    }
+    .banner_item h1 {
+        font-size: 36px;
+    }
+    .banner_item h4 {
+        color: rgb(245, 244, 244);
+        font-size: 13px;
+    }
+    .banner_item .batonn {
+        padding: 9px 20px;
+        margin-top: 18px;
+    }
+    
+    /*====>>>SERVICE SECTION START<<<<====== */
+
+    .service_title {
+        margin-right: 6px;
+    }
+    .service_title h2 {
+        padding: 19px 0px;
+        font-size: 32px;
+    }
+    .service_title p {
+        font-size: 15px;
+    }
+
+    /*====>>>SERVICE SECTION END<<<<====== */
+
+    .contact_item p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 655px) {
+    /*====>>>HEADER SECTION START<<<<====== */
+
+    .header_left {
+        width: 100%;
+        text-align: center;
+  
+    }
+    .header_right {
+        width: 100%;
+    }
+    .header_right ul {
+        text-align: center;
+        margin-top: 13px;
+    }
+    .header_right ul li a {
+        font-size: 13px;
+    }
+    .header_left h3 {
+        font-size: 25px;
+    }
+    /*====>>>HEADER SECTION END<<<<====== */
+    .contact_item {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+    .contact_item p {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 576px) {
+
+    /*====>>>HEADER SECTION START<<<<====== */
+    
+    .header_left {
+        width: 100%;
+        text-align: center;
+    }
+    .header_right ul {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .header_right {
+        width: 100%;
+    }
+    .header_right ul li a {
+        font-size: 11px;
+        padding: 0px 4px;
+    }
+    .header_left h3 {
+        font-size: 22px;
+    }
+    /*====>>>HEADER SECTION END<<<<====== */
+ 
+  
+    .banner_section {
+        background-position: -43px 0px;
+        padding: 81px 0px;
+    }
+    .banner_item h1 {
+        font-size: 32px;
+    }
+    .banner_item .batonn {
+        padding: 9px 14px;
+        margin-top: 16px;
+    }
+    
+    /*====>>>SERVICE SECTION START<<<<====== */
+
+    .itemDesign {
+        width: 100%;
+        margin-left: 5px;
+    }
+    .itemDesign p {
+        width: 55%;
+        font-size: 16px;
+    }
+    .itemDesign h3 {
+        font-size: 24px;
+
+    }
+    .service_title p {
+        width: 91%;
+        margin: auto;
+    }
+     /*====>>>SERVICE SECTION END<<<<====== */
+    .about_title p {
+        font-family: sans-serif;
+        color: #696262;
+        font-size: 15px;
+        width: 350px;
+        margin: auto;
+    }
+    .right_item p {
+        font-size: 18px;
+        text-align: justify;
+    }
+    .contact_title p {
+        width: 360px;
+    }
+    .contact_title h2 {
+
+        font-size: 32px;
+    }
+
+   
+}
+
+@media (max-width: 390px) {
+    .header_right ul li a {
+        font-size: 10px;
+    }
+
+    .banner_section {
+        background-position: -30px 0px;
+        padding: 55px 0px;
+    }
+    .banner_item h1 {
+        font-size: 20px;
+    }
+    .banner_item h4 {
+        color: rgb(245, 244, 244);
+        font-size: 8px;
+    }
+    .banner_item .batonn {
+        padding: 8px 13px;
+        margin-top: 13px;
+        font-size: 8px;
+    }
+    .about_title h2 {
+        padding: 15px 0px;
+        font-size: 30px;
+    }
+    .contact_title p {
+        font-size: 15px;
+    }
+    .contact_title h2 {
+        padding: 15px 0px;
+        font-size: 30px;
+    }
+    .footer_main p {
+        font-size: 12px;
+    }
+}
